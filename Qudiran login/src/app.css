@@ -1,0 +1,44 @@
+.container{
+  display: flex;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+}
+.header{
+  width: 100px;
+}
+.headers{
+  width: 100px;
+  height: 100%;
+}
+.content{
+  height: 100%;
+}
+.sidebar{
+  min-height: 800px;
+}
+.post-card{
+  margin: 2ren;
+}
+.tag-btn{
+  margin-right: 5px;
+}
+.message{
+  margin-top: 1.5rem
+}
+.create-post{
+  width: 80%;
+  margin-left: 10%;
+  margin: 50px;
+}
+.assignment{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.loging{
+  border: 1px solid black;
+  margin: 20px;
+  border-radius: 10px;
+  
+}
